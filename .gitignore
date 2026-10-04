@@ -1,0 +1,7 @@
+node_modules/
+ziperr.db
+ziperr.db-shm
+ziperr.db-wal
+uploads/
+.env
+.vercel
